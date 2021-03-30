@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_show_satellite_view"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/satellite_view"
+        android:title="@string/menu_show_satellite_view"/>
+    
+    <item
+        android:id="@+id/action_show_map_view"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/map_view"
+        android:title="@string/menu_show_map_view"/>  
+        
+    <item
+        android:id="@+id/action_show_lands_dept_map_view"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/landsdeptmap_view"
+        android:title="@string/menu_show_landsdeptmap_view"/>      
+        
+    <item
+        android:id="@+id/action_show_refresh_all"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/refresh_all"
+        android:title="@string/menu_show_refresh_all"/>        
+
+    <item
+        android:id="@+id/action_show_setting"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/system_setting"
+        android:title="@string/menu_show_setting"/> 
+
+    <item
+        android:id="@+id/action_reload_nearest_fixed_asset_and_polygon_items"
+        android:orderInCategory="100"
+        android:title="@string/menu_reload_nearest_fixed_asset_and_polygon_items"/>    
+    
+  
+    <item
+        android:id="@+id/action_test_simulate_DGNSS_Response"
+        android:orderInCategory="100"
+        android:title="@string/menu_testing_simulate_dgnss_response"/>    
+</menu>

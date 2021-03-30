@@ -1,0 +1,518 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+
+	<ScrollView
+           android:id="@+id/scrollView1"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent" 
+           android:background="@android:color/transparent"
+           >
+           
+	    
+   <LinearLayout android:orientation="vertical"
+		android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        >
+
+      <TextView
+          android:id="@+id/device_information_table"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center"
+          android:paddingLeft="10dp"
+          android:textColor="#FFFFFF"
+          android:text="@string/setting_activity_title"
+          android:textSize="20sp" >
+
+      </TextView>
+             
+   <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:stretchColumns="1"
+        android:background="@android:color/transparent"
+        android:padding="2dp">
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+	            <TextView
+	                android:id="@+id/device_id_caption"
+	                android:layout_width="match_parent"
+	                android:layout_height="match_parent"
+	                android:textColor="#FFFFFF"
+	                android:gravity="left|center_vertical"
+	                android:paddingLeft="10dp"
+	                android:text="@string/setting_activity_caption_enable_log"
+	                android:textSize="14sp" />
+	            
+			<ToggleButton
+			    android:id="@+id/btn_enable_log"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:layout_gravity="left"
+			    android:background="@drawable/log_status_images"
+			    android:checked="false"
+			    android:textOff=""
+			    android:textOn=""
+			    android:height="5dp"
+			    />	            
+	            
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+	        <TextView
+	            android:id="@+id/lands_map_ip_label"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"
+	            android:textColor="#FFFFFF"           
+	            android:text="@string/setting_activity_caption_lands_server_host"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_lands_map_ip"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:inputType="text"
+	            android:paddingLeft="10dp"
+	            android:padding="3dp"
+	            android:background="@drawable/edit_content_background_small"
+	            android:textColor="#000000"
+	            android:hint="@string/setting_activity_caption_dgps_server_host_hint"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>        
+        
+        <TableRow
+            android:id="@+id/tableRow3_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_caption_lands_server_port"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_lands_map_port"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"
+	            android:inputType="number"
+	            android:padding="3dp"
+	            android:background="@drawable/edit_content_background_small"
+	            android:textColor="#000000"
+	            android:hint="@string/setting_activity_caption_dgps_server_port_hint"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>        
+        
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+	        <TextView
+	            android:id="@+id/device_name_caption"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"
+	            android:textColor="#FFFFFF"           
+	            android:text="@string/setting_activity_caption_dgps_server_host"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_svr_ip"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:inputType="text"
+	            android:paddingLeft="10dp"
+	            android:padding="3dp"
+	            android:background="@drawable/edit_content_background_small"
+	            android:textColor="#000000"
+	            android:hint="@string/setting_activity_caption_dgps_server_host_hint"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_caption_dgps_server_port"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_svr_port"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"
+	            android:inputType="number"
+	            android:padding="3dp"
+	            android:background="@drawable/edit_content_background_small"
+	            android:textColor="#000000"
+	            android:hint="@string/setting_activity_caption_dgps_server_port_hint"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>
+		
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_caption_nmea_filter_msgs"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_filter_messages"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:background="@drawable/edit_content_background_small"
+	            android:gravity="left|center_vertical"
+	            android:hint="@string/setting_activity_caption_nmea_filter_msgs_hint"
+	            android:inputType="text|textCapCharacters|textMultiLine"
+	            android:minLines="2"
+	            android:padding="3dp"
+	            android:paddingLeft="10dp"
+	            android:textColor="#000000"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>			
+		
+         <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="40dip"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_caption_spinner_fixed_asset"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+            <Spinner
+		        android:id="@+id/spinner_fixed_asset"
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:background="#D3D3D3"
+		        android:prompt="@string/setting_activity_caption_spinner_fixed_asset_prompt" />            
+        </TableRow>	    
+
+         <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="40dip"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_caption_spinner_polygon_zone"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+            <Spinner
+		        android:id="@+id/spinner_polygon_zone"
+		        android:layout_width="0dp"
+		        android:layout_height="match_parent"
+		        android:background="#D3D3D3"
+		        android:prompt="@string/setting_activity_caption_spinner_polygon_zone_prompt" />            
+        </TableRow>
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_show_max_items_count"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_show_item_count"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:background="@drawable/edit_content_background_small"
+	            android:gravity="left|center_vertical"
+	            android:hint="@string/setting_activity_show_max_items_count_hints"
+	            android:inputType="number"
+	            android:padding="3dp"
+	            android:paddingLeft="10dp"
+	            android:textColor="#000000"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>         
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_dgps_login"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_dgps_login"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:background="@drawable/edit_content_background_small"
+	            android:inputType="text|textCapCharacters|textMultiLine"	            
+	            android:gravity="left|center_vertical"
+	            android:padding="3dp"
+	            android:paddingLeft="10dp"
+	            android:textColor="#000000"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>        
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_dgps_password"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+	
+	        <EditText
+	            android:id="@+id/txt_dgps_password"
+	            android:layout_width="0dp"
+	            android:layout_height="match_parent"
+	            android:background="@drawable/edit_content_background_small"
+	            android:inputType="textPassword"	            
+	            android:gravity="left|center_vertical"
+	            android:padding="3dp"
+	            android:paddingLeft="10dp"
+	            android:textColor="#000000"
+	            android:textSize="14sp" >
+
+	        </EditText>            
+        </TableRow>        
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_show_google_corrected_positoin"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+
+	        <CheckBox
+	            android:id="@+id/checkBox_show_google_corrected_position"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FFFFFF"
+	            android:text="@string/setting_activity_show_position_checkbox_enable" />
+          
+        </TableRow> 
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_show_google_location_position"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+
+	        <CheckBox
+	            android:id="@+id/checkBox_show_google_location_position"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FFFFFF"
+	            android:text="@string/setting_activity_show_position_checkbox_enable" />
+          
+        </TableRow> 
+        
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dip">
+            
+	        <TextView
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent"
+	            android:gravity="left|center_vertical"
+	            android:paddingLeft="10dp"            
+	            android:text="@string/setting_activity_show_nmea_message_position"
+	            android:textColor="#FFFFFF"
+	            android:textSize="14sp">
+	
+	        </TextView>
+
+	        <CheckBox
+	            android:id="@+id/checkBox_show_nmea_message_position"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:textColor="#FFFFFF"
+	            android:text="@string/setting_activity_show_position_checkbox_enable" />
+          
+        </TableRow>         	         
+    </TableLayout>
+
+ 
+      <TextView
+          android:id="@+id/separator_1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          >
+      </TextView>        
+
+	
+<TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:stretchColumns="1"
+        android:background="@android:color/transparent"
+        android:padding="2dp">
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">            
+        </TableRow>
+        
+        <TableRow
+            android:id="@+id/tableRow7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >            
+        </TableRow>                
+    </TableLayout>
+    
+
+	<TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">      
+
+	<Button
+	    android:id="@+id/btn_apply_setting"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+	    android:gravity="center"
+	    android:padding="1dp"
+	    android:text="@string/setting_activity_caption_apply_setting"
+	    android:textColor="#FFFFFF" />
+		   	
+	</TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow7_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >            
+        </TableRow>	
+	
+<TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">	
+
+	<Button
+	    android:id="@+id/btn_factory_restore"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_weight="1"
+	    android:gravity="center"
+	    android:padding="1dp"
+	    android:text="@string/setting_activity_caption_default_setting"
+	    android:textColor="#FFFFFF" />
+	   	
+	</TableRow>	
+ </LinearLayout>      
+</ScrollView>   
+</FrameLayout>

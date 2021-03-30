@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_nmea_marker.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/nmea_marker.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_edit_content_background_small.9.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/edit_content_background_small.9.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_map_scale_bar.9.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/map_scale_bar.9.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_system_setting.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/system_setting.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_7.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_7.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/layout_marker_info_window.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/layout/marker_info_window.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_2.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_2.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_1.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_1.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_autocenteron.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/autocenteron.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/layout_polygon_marker_info_window.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/layout/polygon_marker_info_window.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/layout_map_main.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/layout/map_main.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_9.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_9.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_map_view.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/map_view.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_slider_on.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/slider_on.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_marker_info_window.9.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/marker_info_window.9.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_4.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_4.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable_log_status_images.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable/log_status_images.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_google_my_position_marker.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/google_my_position_marker.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_dgps_marker.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/dgps_marker.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_slider_off.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/slider_off.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/raw_brdc3140n.14n.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/raw/brdc3140n.14n"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_polygon_mark.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/polygon_mark.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_refresh_all.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/refresh_all.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_satellite_view.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/satellite_view.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_6.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_6.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_default.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_default.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_8.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_8.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_location_service_marker.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/location_service_marker.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_autocenteroff.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/autocenteroff.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_dgps_ion_trop_marker.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/dgps_ion_trop_marker.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_warning_sign.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/warning_sign.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_3.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_3.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/layout_fixed_asset_marker_info_window.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/layout/fixed_asset_marker_info_window.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/raw_brdc3140g.14g.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/raw/brdc3140g.14g"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_landsdeptmap_view.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/landsdeptmap_view.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_0.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_0.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable_log_status_selector.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable/log_status_selector.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/layout_system_setting.xml.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/layout/system_setting.xml"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_5.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_5.png"
+    },
+    {
+        "merged": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/res/merged/debug/drawable-hdpi_fixed_asset_type_27.png.flat",
+        "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/drawable-hdpi/fixed_asset_type_27.png"
+    }
+]

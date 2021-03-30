@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">D-GPS</string>    
+    <string name="hello_world">Hello world!</string>
+    
+	<string name="image_not_find">N/A</string>
+	
+	<string name="scale_indicator">Scale</string>
+    
+    <string name="menu_show_satellite_view">Satellite</string>
+    <string name="menu_show_map_view">Map</string>
+    <string name="menu_show_landsdeptmap_view">LandsDept</string>
+    <string name="menu_show_refresh_all">Refresh</string>
+    <string name="menu_show_setting">Setting</string>
+    <string name="menu_reload_nearest_fixed_asset_and_polygon_items">Reload Asset &amp; Polygon</string>
+    <string name="menu_testing_simulate_dgnss_response">Simulate DGNSS response</string>
+    
+    <string name="polygon_marker_info_windows_polygon_id">ID :</string> 
+    <string name="polygon_marker_info_windows_desc">Desc :</string>
+    <string name="polygon_marker_info_windows_point_list">Points :</string>       
+ 
+    <string name="fixed_asset_marker_info_windows_asset_id">ID :</string>
+    <string name="fixed_asset_marker_info_windows_latlng">GPS :</string>
+    <string name="fixed_asset_marker_info_windows_geo_summary">Diff :</string>
+    <string name="fixed_asset_marker_info_windows_dist_unit">Meter(s)</string>
+    <string name="fixed_asset_marker_info_windows_desc">Desc :</string>
+    <string name="fixed_asset_marker_info_windows_records_button">Record Now</string>
+    
+    <string name="marker_info_windows_datetime">Time :</string>
+    <string name="marker_info_windows_latlng">GPS :</string>
+    <string name="marker_info_windows_accuracy">Accuracy :</string>
+    <string name="marker_info_windows_provider">Provider :</string>
+    <string name="marker_info_windows_zonelist">Zone(s) :</string>
+    <string name="accuracy_unit">Meter(s)</string>
+    
+    <string name="setting_activity_title">System Setting 1.6</string>
+    <string name="setting_activity_caption_enable_log">Enable Log : </string>
+    <string name="setting_activity_caption_enable_log_hint">True/False</string>
+    <string name="setting_activity_caption_lands_server_host">Lands Map IP : </string>
+    <string name="setting_activity_caption_lands_server_port">Lands Map Port :</string>        
+    <string name="setting_activity_caption_dgps_server_host">DGPS Server IP : </string>
+    <string name="setting_activity_caption_dgps_server_host_hint">e.g. 192.168.1.1</string>
+    <string name="setting_activity_caption_dgps_server_port">DGPS Server Port : </string>
+    <string name="setting_activity_caption_dgps_server_port_hint">4000</string>
+    <string name="setting_activity_caption_nmea_filter_msgs">NMEA Filter : </string>
+    <string name="setting_activity_caption_nmea_filter_msgs_hint">$GPGSV;$*GSA;\nEmpty = No filter</string>
+    
+    <string name="setting_activity_caption_spinner_fixed_asset">Fixed Asset :</string>
+    <string name="setting_activity_caption_spinner_fixed_asset_prompt">Select Asset file</string>
+    
+    <string name="setting_activity_caption_spinner_polygon_zone">Polygon / Zone :</string>
+    <string name="setting_activity_caption_spinner_polygon_zone_prompt">Select Polygon file</string>    
+    
+    <string name="setting_activity_show_max_items_count">Max. Items :</string>
+    <string name="setting_activity_show_max_items_count_hints">between 10 ~ 1000</string>
+    
+    <string name="setting_activity_dgps_login">DSP. login :</string>
+    <string name="setting_activity_dgps_password">password</string>
+    
+    <string name="setting_activity_show_google_corrected_positoin">Google DGPS :</string>
+    <string name="setting_activity_show_google_location_position">Location Srv :</string>
+    <string name="setting_activity_show_nmea_message_position">NMEA GPS :</string>
+    
+    <string name="setting_activity_show_position_checkbox_enable">Show on map</string>
+    
+    
+    <string name="setting_activity_caption_apply_setting">Apply Setting</string>
+    <string name="setting_activity_caption_default_setting">Default Setting</string>
+    
+    <string name="map_view_enable_auto_refresh_on">Auto Refresh ON</string>
+    <string name="map_view_enable_auto_refresh_off">Auto Refresh OFF</string>
+    <string name="map_view_take_record_button">Rec</string>
+    
+    <string name="alert_box_gps_module_is_not_enabled">GPS Module Not Enabled</string>
+    <string name="alert_box_turn_on_gps_module_now">Turn on the GPS module now?</string>
+    <string name="alert_box_yes">Yes</string>
+    <string name="alert_box_no">No</string>
+    
+</resources>

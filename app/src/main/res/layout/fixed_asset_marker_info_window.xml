@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/marker_info_window"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/MarkerInfoTitleText"
+            android:textStyle="bold" />
+
+<TableLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+    
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/fixed_asset_marker_info_windows_asset_id"/>
+
+        <TextView
+            android:id="@+id/txt_asset_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"/>                
+    </TableRow> 
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/fixed_asset_marker_info_windows_latlng"/>
+
+        <TextView
+            android:id="@+id/txt_latlng_gps"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow> 
+    
+    <TableRow
+        android:id="@+id/geo_point_summary_row"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/fixed_asset_marker_info_windows_geo_summary"/>
+
+        <TextView
+            android:id="@+id/txt_geo_summary"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow>     
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/fixed_asset_marker_info_windows_desc"/>
+
+        <TextView
+            android:id="@+id/txt_desc"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow> 
+        
+</TableLayout>
+<Button
+    android:id="@+id/record_now_button"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textColor="#FFFFFF"
+    android:background="#A0000000"
+    android:text="@string/fixed_asset_marker_info_windows_records_button" />
+</LinearLayout>

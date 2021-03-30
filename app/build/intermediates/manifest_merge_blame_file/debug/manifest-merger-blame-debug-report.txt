@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="lscm.dgps.pilotapp.lands"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+7-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
+8        android:minSdkVersion="14"
+8-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:15-41
+9        android:targetSdkVersion="30" />
+9-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:42-71
+10
+11    <permission
+11-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:17-124
+12        android:name="lscm.dgps.pilotapp.permission.MAPS_RECEIVE"
+12-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:29-86
+13        android:protectionLevel="signature" />
+13-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:87-122
+14
+15    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE" />
+15-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:8:5-86
+15-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:8:22-83
+16    <uses-permission android:name="lscm.dgps.pilotapp.permission.MAPS_RECEIVE" />
+16-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:9:5-81
+16-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:9:22-79
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:10:5-66
+17-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:10:22-64
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:11:5-80
+18-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:11:22-78
+19    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:12:5-80
+19-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:12:22-77
+20    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+20-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:13:5-97
+20-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:13:22-95
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+21-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:14:5-80
+21-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:14:22-78
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:15:5-78
+22-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:15:22-76
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+23-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:16:5-75
+23-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:16:22-73
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:17:5-78
+24-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:17:22-76
+25    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+25-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:18:5-72
+25-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:18:22-70
+26    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+26-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:19:5-74
+26-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:19:22-72
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:22:5-24:33
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:23:8-40
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:24:8-31
+31
+32    <application
+32-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:21:5-41:19
+33        android:allowBackup="true"
+33-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:22:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:22:18-86
+35        android:debuggable="true"
+36        android:icon="@drawable/ic_launcher"
+36-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:23:9-45
+37        android:label="@string/app_name"
+37-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:24:9-41
+38        android:requestLegacyExternalStorage="true"
+38-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:25:9-52
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:24:42-73
+41        <activity
+41-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:9-33:20
+42            android:name="lscm.dgps.pilotapp.lands.MainActivity"
+42-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:19-71
+43            android:label="@string/app_name"
+43-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:72-104
+44            android:screenOrientation="portrait" >
+44-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:105-141
+45            <intent-filter>
+45-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:27:13-31:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:28:17-68
+46-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:28:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:30:17-76
+48-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:30:27-74
+49            </intent-filter>
+50
+51            <meta-data
+51-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:9-74
+52                android:name="android.app.lib_name"
+52-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:20-55
+53                android:value="" />
+53-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:56-72
+54        </activity>
+55        <activity
+55-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:10-37:20
+56            android:name="lscm.dgps.pilotapp.lands.System_setting"
+56-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:20-74
+57            android:label="@string/app_name" >
+57-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:75-107
+58            <meta-data
+58-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:9-74
+59                android:name="android.app.lib_name"
+59-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:20-55
+60                android:value="" />
+60-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:56-72
+61        </activity>
+62
+63        <meta-data
+63-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:9-127
+64            android:name="com.google.android.maps.v2.API_KEY"
+64-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:20-69
+65            android:value="AIzaSyCtoN7wSJD2kNtXL1jnqefl1U7cjCMJphc" />
+65-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:70-125
+66        <meta-data
+66-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:9-121
+67            android:name="com.google.android.gms.version"
+67-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:20-65
+68            android:value="@integer/google_play_services_version" />
+68-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:66-119
+69
+70        <uses-library
+70-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:9-87
+71            android:name="org.apache.http.legacy"
+71-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:23-60
+72            android:required="false" />
+72-->/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:61-85
+73    </application>
+74
+75</manifest>

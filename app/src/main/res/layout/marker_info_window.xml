@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/marker_info_window"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/MarkerInfoTitleText"
+            android:textStyle="bold" />
+
+<TableLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+    
+    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/marker_info_windows_datetime"/>
+
+        <TextView
+            android:id="@+id/txt_datetime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"/>                
+    </TableRow> 
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/marker_info_windows_latlng"/>
+
+        <TextView
+            android:id="@+id/txt_latlng_gps"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow> 
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/marker_info_windows_accuracy"/>
+
+        <TextView
+            android:id="@+id/txt_accuracy"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow> 
+    
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/marker_info_windows_provider"/>
+
+        <TextView
+            android:id="@+id/txt_gps_provider"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow>
+    <TableRow
+        android:id="@+id/tablerow_zonelist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/MarkerInfoText"
+            android:text="@string/marker_info_windows_zonelist"/>
+
+        <TextView
+            android:id="@+id/txt_zonelist"
+            android:textSize="@dimen/MarkerInfoText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        
+    </TableRow>       
+</TableLayout>
+</LinearLayout>
