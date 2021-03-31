@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "outputFile": "/Users/test/Documents/GitHub/DGPS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/res/values-v14/styles.xml",
+                    "source": "/Users/test/Documents/GitHub/DGPS/app/src/main/res/values-v14/styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",

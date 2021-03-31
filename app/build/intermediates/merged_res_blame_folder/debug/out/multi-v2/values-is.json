@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
+            "outputFile": "/Users/test/Documents/GitHub/DGPS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml",
             "map": [
                 {
                     "source": "/Users/test/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/res/values-is/values-is.xml",

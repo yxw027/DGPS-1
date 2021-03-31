@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "/Users/test/Documents/GitHub/DGPS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
                     "source": "/Users/test/.gradle/caches/transforms-2/files-2.1/475cdf0a33e8fa8632e7ca438cf8958e/jetified-play-services-basement-8.4.0/res/values-en-rGB/common_strings.xml",

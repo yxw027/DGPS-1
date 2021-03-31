@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:16:1-28:12
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/3c460c84fc68770cd6cbb69c88ea7ff0/jetified-play-services-base-8.4.0/AndroidManifest.xml:16:1-19:12
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/475cdf0a33e8fa8632e7ca438cf8958e/jetified-play-services-basement-8.4.0/AndroidManifest.xml:16:1-26:12
@@ -35,27 +35,27 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/test/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:70-104
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:70-104
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:129-154
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:129-154
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:2:105-128
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:2:105-128
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:5-73
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:5-73
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:5-73
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:26:5-42
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:26:5-42
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/3c460c84fc68770cd6cbb69c88ea7ff0/jetified-play-services-base-8.4.0/AndroidManifest.xml:18:5-42
@@ -118,76 +118,76 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/test/.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/06bc4641de51b04d4df94808d6e05292/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/1b64911e987df0fea019408e241659d7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
-INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:5-73
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:5-73
+INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:5-73
 	android:targetSdkVersion
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:42-71
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:42-71
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:4:15-41
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:4:15-41
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml
 permission#lscm.dgps.pilotapp.permission.MAPS_RECEIVE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:17-124
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:6:17-124
 	android:protectionLevel
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:87-122
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:6:87-122
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:6:29-86
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:6:29-86
 uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:8:5-86
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:8:5-86
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:8:22-83
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:8:22-83
 uses-permission#lscm.dgps.pilotapp.permission.MAPS_RECEIVE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:9:22-79
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:9:22-79
 uses-permission#android.permission.INTERNET
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:10:5-66
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:10:5-66
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:21:5-66
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:21:5-66
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:10:22-64
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:11:5-80
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:11:22-78
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:11:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:12:5-80
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:12:22-77
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:12:22-77
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:13:5-97
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:13:5-97
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:13:22-95
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:13:22-95
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:14:5-80
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:14:22-78
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:15:5-78
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:15:5-78
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:15:22-76
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:15:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:16:5-75
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:16:5-75
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:16:22-73
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:17:5-78
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:17:5-78
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:20:5-78
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:17:22-76
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:18:5-72
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:18:5-72
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:18:22-70
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:18:22-70
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:19:5-74
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:19:5-74
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:19:22-72
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:19:22-72
 application
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:21:5-41:19
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:21:5-41:19
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/475cdf0a33e8fa8632e7ca438cf8958e/jetified-play-services-basement-8.4.0/AndroidManifest.xml:20:5-24:19
@@ -197,67 +197,67 @@ MERGED from [androidx.core:core:1.0.0] /Users/test/.gradle/caches/transforms-2/f
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/79a301892a9f029dc033d4b17f38d796/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 	android:requestLegacyExternalStorage
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:25:9-52
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:25:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4fa96a30a609219e9d73eea686ac383a/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:24:9-41
 	android:icon
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:23:9-45
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:23:9-45
 	android:allowBackup
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:24:42-73
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:24:42-73
 activity#lscm.dgps.pilotapp.lands.MainActivity
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:9-33:20
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:26:9-33:20
 	android:screenOrientation
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:105-141
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:26:105-141
 	android:label
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:72-104
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:26:72-104
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:26:19-71
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:26:19-71
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:28:17-68
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:30:17-76
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:30:27-74
 meta-data#android.app.lib_name
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:9-74
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:32:9-74
 	android:value
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:56-72
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:32:56-72
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:32:20-55
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:32:20-55
 activity#lscm.dgps.pilotapp.lands.System_setting
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:10-37:20
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:35:10-37:20
 	android:label
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:75-107
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:35:75-107
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:35:20-74
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:35:20-74
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:9-127
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:38:9-127
 	android:value
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:70-125
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:38:70-125
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:38:20-69
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:38:20-69
 meta-data#com.google.android.gms.version
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:9-121
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:39:9-121
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/475cdf0a33e8fa8632e7ca438cf8958e/jetified-play-services-basement-8.4.0/AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/475cdf0a33e8fa8632e7ca438cf8958e/jetified-play-services-basement-8.4.0/AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:66-119
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:39:66-119
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:39:20-65
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:39:20-65
 uses-library#org.apache.http.legacy
-ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:9-87
+ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:40:9-87
 	android:required
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:61-85
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:40:61-85
 	android:name
-		ADDED from /Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/src/main/AndroidManifest.xml:40:23-60
+		ADDED from /Users/test/Documents/GitHub/DGPS/app/src/main/AndroidManifest.xml:40:23-60
 uses-feature#0x00020000
 ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/test/.gradle/caches/transforms-2/files-2.1/4abe3f5d793517243a32905049759449/jetified-play-services-maps-8.4.0/AndroidManifest.xml:22:5-24:33
 	android:glEsVersion

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/test/StudioProjects/DGPS.pilotApp_Web Version2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "/Users/test/Documents/GitHub/DGPS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "/Users/test/.gradle/caches/transforms-2/files-2.1/3c460c84fc68770cd6cbb69c88ea7ff0/jetified-play-services-base-8.4.0/res/values-cs/base_strings.xml",

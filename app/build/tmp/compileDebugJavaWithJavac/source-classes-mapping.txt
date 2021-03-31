@@ -59,8 +59,21 @@ com/polyu/position/SatPosition.java
  com.polyu.position.SatPosition
 lscm/dgps/pilotapp/lands/GeoServerTileProvider.java
  lscm.dgps.pilotapp.lands.GeoServerTileProvider
-com/polyu/rtcm/SatelliteRTCMList.java
- com.polyu.rtcm.SatelliteRTCMList
+lscm/dgps/pilotapp/lands/MainActivity.java
+ lscm.dgps.pilotapp.lands.MainActivity
+ lscm.dgps.pilotapp.lands.MainActivity$1
+ lscm.dgps.pilotapp.lands.MainActivity$10
+ lscm.dgps.pilotapp.lands.MainActivity$11
+ lscm.dgps.pilotapp.lands.MainActivity$2
+ lscm.dgps.pilotapp.lands.MainActivity$3
+ lscm.dgps.pilotapp.lands.MainActivity$4
+ lscm.dgps.pilotapp.lands.MainActivity$5
+ lscm.dgps.pilotapp.lands.MainActivity$6
+ lscm.dgps.pilotapp.lands.MainActivity$7
+ lscm.dgps.pilotapp.lands.MainActivity$8
+ lscm.dgps.pilotapp.lands.MainActivity$9
+ lscm.dgps.pilotapp.lands.MainActivity$Group_time
+ lscm.dgps.pilotapp.lands.MainActivity$PreviousCenter
 com/polyu/position/XYZPosition.java
  com.polyu.position.XYZPosition
 com/polyu/position/BLHPosition.java
@@ -88,18 +101,5 @@ com/polyu/GPSEphemeris/GPSEphemeris.java
  com.polyu.GPSEphemeris.GPSEphemeris
 com/polyu/nmea/NmeaProcessorGLONASS.java
  com.polyu.nmea.NmeaProcessorGLONASS
-lscm/dgps/pilotapp/lands/MainActivity.java
- lscm.dgps.pilotapp.lands.MainActivity
- lscm.dgps.pilotapp.lands.MainActivity$1
- lscm.dgps.pilotapp.lands.MainActivity$10
- lscm.dgps.pilotapp.lands.MainActivity$11
- lscm.dgps.pilotapp.lands.MainActivity$2
- lscm.dgps.pilotapp.lands.MainActivity$3
- lscm.dgps.pilotapp.lands.MainActivity$4
- lscm.dgps.pilotapp.lands.MainActivity$5
- lscm.dgps.pilotapp.lands.MainActivity$6
- lscm.dgps.pilotapp.lands.MainActivity$7
- lscm.dgps.pilotapp.lands.MainActivity$8
- lscm.dgps.pilotapp.lands.MainActivity$9
- lscm.dgps.pilotapp.lands.MainActivity$Group_time
- lscm.dgps.pilotapp.lands.MainActivity$PreviousCenter
+com/polyu/rtcm/SatelliteRTCMList.java
+ com.polyu.rtcm.SatelliteRTCMList
